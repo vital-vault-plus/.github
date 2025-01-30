@@ -27,7 +27,7 @@ Hi, I’m **Aneesh**, the **Co-Founder & Lead Developer** of **Vital Vault**. I 
 
 🔗 **Connect with me:**  
 - 🏆 GitHub: [@007aneesh](https://github.com/007aneesh)  
-- 🔗 LinkedIn: [linkedin.com/in/aneeshaggarwal](https://linkedin.com/in/your-profile](https://www.linkedin.com/in/aneeshaggarwal/))  
+- 🔗 LinkedIn: [linkedin.com/in/aneeshaggarwal](https://www.linkedin.com/in/aneeshaggarwal/)  
 
 ---
 
