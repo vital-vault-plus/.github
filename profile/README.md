@@ -38,4 +38,4 @@ Vital Vault is a **modern, enterprise-grade healthcare management system** built
 
 ---
 
-⭐ **Star this repository and stay tuned for updates!** 🚀  
+⭐ **Follow us and stay tuned for updates!** 🚀  
