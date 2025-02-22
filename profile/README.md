@@ -18,14 +18,7 @@ Vital Vault is a **modern, enterprise-grade healthcare management system** built
 
 ---
 
-## 👤 **Meet the Co-Founder**  
-<div align="center">
-  <img src="https://github.com/007aneesh.png" width="100" style="border-radius: 50%;" alt="Aneesh's GitHub Profile Picture">
-</div>  
-
-Hi, I’m **Aneesh**, the **Co-Founder & Lead Developer** of **Vital Vault**. I am passionate about building scalable software solutions, and this project is my initiative to enhance **hospital data management** with cutting-edge technology.  
-
-🔗 **Connect with me:**  
+🔗 **Connect with me for more information:**  
 - 🏆 GitHub: [@007aneesh](https://github.com/007aneesh)  
 - 🔗 LinkedIn: [linkedin.com/in/aneeshaggarwal](https://www.linkedin.com/in/aneeshaggarwal/)  
 
