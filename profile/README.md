@@ -33,7 +33,6 @@ Vital Vault is a **modern, enterprise-grade healthcare management system** built
 ---
 
 ## 🤝 **Join Us**  
-We are open to collaborations! If you're passionate about healthcare technology and want to contribute, feel free to **fork, star, and collaborate**.  
 
 📩 For inquiries, reach out at: **aneeshx000@gmail.com**  
 
